@@ -37,6 +37,7 @@
 
 ---
 
+
 ### ⛓️ Blockchain & Trading Systems
 <div align="left">
   <img height="25" src="https://img.shields.io/badge/Polymarket-2C2C2C?style=for-the-badge">
