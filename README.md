@@ -17,7 +17,6 @@
 </div>
 
 ---
-
 ## ⚔️ Skills
 
 ### 🦀 Rust & Systems Programming
